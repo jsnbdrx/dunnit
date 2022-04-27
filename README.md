@@ -13,9 +13,12 @@ This is a full stack MERN application where a user is able to list their service
   * [Technologies](#technologies)
   * [License](#license)
   * [Link](#link)
-  * [Questions](#questions
+  * [Questions](#questions)
 
   ## Screenshot
+
+<img width="811" alt="dunnit-screenshot" src="https://user-images.githubusercontent.com/91853630/165416390-87a2dad9-dd24-4078-a73d-33a80147abc5.png">
+
 
   ## Technologies
 
@@ -37,7 +40,7 @@ This is a full stack MERN application where a user is able to list their service
     This project is licensed under MIT
   
   ## Link
-  Application deployed at https://jsnbdrx.github.io/react-portfolio/
+  Application deployed at TBD
 
   ## Questions
-  Created by Jason B. If you have any questions, feel free to reach out to me at js.bdrx@gmail.com. Don't forget to checkout my GitHub profile/projects at https://github.com/jsnbdrx.# dunnit
+  Created by Jason B. If you have any questions, feel free to reach out to me at js.bdrx@gmail.com. Don't forget to checkout my GitHub profile/projects at https://github.com/jsnbdrx
