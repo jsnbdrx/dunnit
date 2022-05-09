@@ -6,7 +6,7 @@
 
 ## Description 
 
-This is a full stack MERN application where a user is able to list their services they wish to sell to other users. A user is able to book the service they desire with a comment. I used a little bit of the template set by the Deep Thoughts application (github.com/jsnbdrx/deep-thoughts) as provided by the Boot Camp class materials.
+This is a full stack MERN application where a user is able to list their services they wish to sell to other users. A user is able to book the service they desire with a comment. I used a little bit of the template set by the Deep Thoughts application (https://github.com/jsnbdrx/deep-thoughts) as provided by the Boot Camp class materials.
 
 ## Table of Contents 
   * [Screenshot](#screenshot)
